@@ -21,5 +21,8 @@
     <ClInclude Include="Median of Two Sorted Arrays.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="Longest Substring Without Repeating Characters.h">
+      <Filter>源文件\1-10</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

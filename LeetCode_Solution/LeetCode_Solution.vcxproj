@@ -68,6 +68,7 @@
     <ClCompile Include="Two Sum.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Longest Substring Without Repeating Characters.h" />
     <ClInclude Include="Median of Two Sorted Arrays.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

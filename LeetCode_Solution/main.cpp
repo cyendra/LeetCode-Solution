@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "Two Sum.h"
+#include "Longest Substring Without Repeating Characters.h"
 
 using namespace std;
 
@@ -8,7 +8,8 @@ Solution ss;
 
 int main()
 {
-	vector<int> v;
-	cout << ss.twoSum(v, 6)[0] << endl;
+	string s;
+	cin >> s;
+	cout << ss.lengthOfLongestSubstring(s) << endl;
 	return 0;
 }
