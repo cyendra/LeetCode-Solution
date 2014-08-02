@@ -11,6 +11,9 @@
     <Filter Include="头文件">
       <UniqueIdentifier>{398f6b9b-930a-4511-849b-4cb3d093eb49}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Wait">
+      <UniqueIdentifier>{be4e5415-40f2-444c-97a4-f6d50627d26e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -32,6 +35,9 @@
     </ClInclude>
     <ClInclude Include="std.h">
       <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Longest Palindromic Substring.h">
+      <Filter>源文件\1-10</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
