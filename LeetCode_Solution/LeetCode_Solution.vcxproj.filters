@@ -8,6 +8,9 @@
     <Filter Include="源文件\1-10">
       <UniqueIdentifier>{4249da66-8a1b-478d-a5af-6f77bb6d5dc2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{398f6b9b-930a-4511-849b-4cb3d093eb49}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -23,6 +26,12 @@
     </ClInclude>
     <ClInclude Include="Longest Substring Without Repeating Characters.h">
       <Filter>源文件\1-10</Filter>
+    </ClInclude>
+    <ClInclude Include="Add Two Numbers.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="std.h">
+      <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

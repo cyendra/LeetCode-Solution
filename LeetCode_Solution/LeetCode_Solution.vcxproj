@@ -68,8 +68,10 @@
     <ClCompile Include="Two Sum.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Add Two Numbers.h" />
     <ClInclude Include="Longest Substring Without Repeating Characters.h" />
     <ClInclude Include="Median of Two Sorted Arrays.h" />
+    <ClInclude Include="std.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
