@@ -24,19 +24,22 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Median of Two Sorted Arrays.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
     <ClInclude Include="Longest Substring Without Repeating Characters.h">
       <Filter>源文件\1-10</Filter>
-    </ClInclude>
-    <ClInclude Include="Add Two Numbers.h">
-      <Filter>源文件</Filter>
     </ClInclude>
     <ClInclude Include="std.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Longest Palindromic Substring.h">
+      <Filter>源文件\1-10</Filter>
+    </ClInclude>
+    <ClInclude Include="Add Two Numbers.h">
+      <Filter>源文件\Wait</Filter>
+    </ClInclude>
+    <ClInclude Include="Median of Two Sorted Arrays.h">
+      <Filter>源文件\Wait</Filter>
+    </ClInclude>
+    <ClInclude Include="Reverse Integer.h">
       <Filter>源文件\1-10</Filter>
     </ClInclude>
   </ItemGroup>

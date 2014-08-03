@@ -5,3 +5,10 @@ LeetCode-Solution
 003 Longest Substring Without Repeating Characters  
 004  
 005 Longest Palindromic Substring  
+006  
+007 Reverse Integer  
+  
+  
+
+=================  
+
