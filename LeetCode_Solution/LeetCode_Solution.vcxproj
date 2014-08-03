@@ -76,6 +76,7 @@
     <ClInclude Include="Remove Nth Node From End of List.h" />
     <ClInclude Include="Reverse Integer.h" />
     <ClInclude Include="std.h" />
+    <ClInclude Include="Valid Parentheses.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
