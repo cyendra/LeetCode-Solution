@@ -22,3 +22,15 @@ X 010 Regular Expression Matching
 019 Remove Nth Node From End of List  
 020 Valid Parentheses  
 =================
+021  
+022 Merge k Sorted Lists  
+023  
+024  
+025  
+026  
+027  
+028  
+029  
+030  
+=================  
+

@@ -72,6 +72,7 @@
     <ClInclude Include="Longest Palindromic Substring.h" />
     <ClInclude Include="Longest Substring Without Repeating Characters.h" />
     <ClInclude Include="Median of Two Sorted Arrays.h" />
+    <ClInclude Include="Merge k Sorted Lists.h" />
     <ClInclude Include="Palindrome Number.h" />
     <ClInclude Include="Remove Nth Node From End of List.h" />
     <ClInclude Include="Reverse Integer.h" />
