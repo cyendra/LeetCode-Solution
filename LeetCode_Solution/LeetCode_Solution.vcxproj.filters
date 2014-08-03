@@ -17,7 +17,7 @@
     <Filter Include="源文件\011-020">
       <UniqueIdentifier>{15a15f97-8e18-40e9-9403-946e568eba7b}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\021-022">
+    <Filter Include="源文件\021-030">
       <UniqueIdentifier>{234b20e5-5212-47d3-bf20-02ebfef125ea}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -58,7 +58,10 @@
       <Filter>源文件\011-020</Filter>
     </ClInclude>
     <ClInclude Include="Merge k Sorted Lists.h">
-      <Filter>源文件\021-022</Filter>
+      <Filter>源文件\021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="Divide Two Integers.h">
+      <Filter>源文件\021-030</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
