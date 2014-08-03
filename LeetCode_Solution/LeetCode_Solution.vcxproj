@@ -73,6 +73,7 @@
     <ClInclude Include="Longest Substring Without Repeating Characters.h" />
     <ClInclude Include="Median of Two Sorted Arrays.h" />
     <ClInclude Include="Palindrome Number.h" />
+    <ClInclude Include="Remove Nth Node From End of List.h" />
     <ClInclude Include="Reverse Integer.h" />
     <ClInclude Include="std.h" />
   </ItemGroup>

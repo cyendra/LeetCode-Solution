@@ -45,6 +45,9 @@
     <ClInclude Include="Palindrome Number.h">
       <Filter>源文件\1-10</Filter>
     </ClInclude>
+    <ClInclude Include="Remove Nth Node From End of List.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
