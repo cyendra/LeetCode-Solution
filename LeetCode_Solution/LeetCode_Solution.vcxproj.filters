@@ -63,6 +63,9 @@
     <ClInclude Include="Divide Two Integers.h">
       <Filter>源文件\021-030</Filter>
     </ClInclude>
+    <ClInclude Include="Next Permutation.h">
+      <Filter>源文件\021-030</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />

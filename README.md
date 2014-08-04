@@ -38,8 +38,8 @@ X 010 Regular Expression Matching
 027  
 028 Divide Two Integers  
 029  
-030  
-
+030 Next Permutation  
+  
 031-040  
 -------  
 031  
@@ -52,4 +52,4 @@ X 010 Regular Expression Matching
 038  
 039  
 040  
-
+  
