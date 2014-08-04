@@ -72,6 +72,9 @@
     <ClInclude Include="Search for a Range.h">
       <Filter>源文件\031-040</Filter>
     </ClInclude>
+    <ClInclude Include="Search Insert Position.h">
+      <Filter>源文件\031-040</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
