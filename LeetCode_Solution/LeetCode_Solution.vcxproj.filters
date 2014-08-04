@@ -20,6 +20,9 @@
     <Filter Include="源文件\021-030">
       <UniqueIdentifier>{234b20e5-5212-47d3-bf20-02ebfef125ea}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\031-040">
+      <UniqueIdentifier>{e73f3933-3980-40fa-a15b-879b29a44a61}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -65,6 +68,9 @@
     </ClInclude>
     <ClInclude Include="Next Permutation.h">
       <Filter>源文件\021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="Search for a Range.h">
+      <Filter>源文件\031-040</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
