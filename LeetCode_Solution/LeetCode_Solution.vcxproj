@@ -78,6 +78,7 @@
     <ClInclude Include="Palindrome Number.h" />
     <ClInclude Include="Remove Nth Node From End of List.h" />
     <ClInclude Include="Reverse Integer.h" />
+    <ClInclude Include="Reverse Words in a String.h" />
     <ClInclude Include="Search for a Range.h" />
     <ClInclude Include="Search Insert Position.h" />
     <ClInclude Include="std.h" />

@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "Longest Substring Without Repeating Characters.h"
+#include "Reverse Words in a String.h"
 
 using namespace std;
 
@@ -9,7 +9,9 @@ Solution ss;
 int main()
 {
 	string s;
+	getline(cin, s);
+	ss.reverseWords(s);
+	cout << s << endl;
 	cin >> s;
-	cout << ss.lengthOfLongestSubstring(s) << endl;
 	return 0;
 }

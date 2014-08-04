@@ -23,6 +23,9 @@
     <Filter Include="源文件\031-040">
       <UniqueIdentifier>{e73f3933-3980-40fa-a15b-879b29a44a61}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\151-160">
+      <UniqueIdentifier>{ad97f3c3-8ad0-4609-9a42-8aa16028448f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -74,6 +77,9 @@
     </ClInclude>
     <ClInclude Include="Search Insert Position.h">
       <Filter>源文件\031-040</Filter>
+    </ClInclude>
+    <ClInclude Include="Reverse Words in a String.h">
+      <Filter>源文件\151-160</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
