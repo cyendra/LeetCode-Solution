@@ -26,6 +26,9 @@
     <Filter Include="源文件\151-160">
       <UniqueIdentifier>{ad97f3c3-8ad0-4609-9a42-8aa16028448f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\141-150">
+      <UniqueIdentifier>{643c0fe5-cfbd-485a-b421-5328c9c8a456}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -80,6 +83,9 @@
     </ClInclude>
     <ClInclude Include="Reverse Words in a String.h">
       <Filter>源文件\151-160</Filter>
+    </ClInclude>
+    <ClInclude Include="Evaluate Reverse Polish Notation.h">
+      <Filter>源文件\141-150</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

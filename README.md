@@ -53,6 +53,19 @@ X 010 Regular Expression Matching
 039  
 040  
   
+141-150  
+-------  
+141  
+142  
+143  
+144  
+145  
+146  
+147  
+148  
+149  
+150 Evaluate Reverse Polish Notation  
+  
 151-160  
 -------  
 151 Reverse Words in a String  

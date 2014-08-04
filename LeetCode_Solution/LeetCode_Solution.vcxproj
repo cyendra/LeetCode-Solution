@@ -70,6 +70,7 @@
   <ItemGroup>
     <ClInclude Include="Add Two Numbers.h" />
     <ClInclude Include="Divide Two Integers.h" />
+    <ClInclude Include="Evaluate Reverse Polish Notation.h" />
     <ClInclude Include="Longest Palindromic Substring.h" />
     <ClInclude Include="Longest Substring Without Repeating Characters.h" />
     <ClInclude Include="Median of Two Sorted Arrays.h" />
