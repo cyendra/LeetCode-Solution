@@ -37,7 +37,7 @@
     <ClCompile Include="Two Sum.h">
       <Filter>源文件\001-010</Filter>
     </ClCompile>
-    <ClCompile Include="Binary Tree Postorder Traversal.cpp">
+    <ClCompile Include="Binary Tree Postorder Traversal.h">
       <Filter>源文件\141-150</Filter>
     </ClCompile>
   </ItemGroup>
@@ -88,6 +88,9 @@
       <Filter>源文件\151-160</Filter>
     </ClInclude>
     <ClInclude Include="Evaluate Reverse Polish Notation.h">
+      <Filter>源文件\141-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Binary Tree Preorder Traversal .h">
       <Filter>源文件\141-150</Filter>
     </ClInclude>
   </ItemGroup>

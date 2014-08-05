@@ -64,12 +64,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Binary Tree Postorder Traversal.cpp" />
+    <ClCompile Include="Binary Tree Postorder Traversal.h" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Two Sum.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Add Two Numbers.h" />
+    <ClInclude Include="Binary Tree Preorder Traversal .h" />
     <ClInclude Include="Divide Two Integers.h" />
     <ClInclude Include="Evaluate Reverse Polish Notation.h" />
     <ClInclude Include="Longest Palindromic Substring.h" />
