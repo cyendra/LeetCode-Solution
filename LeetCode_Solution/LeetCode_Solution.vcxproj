@@ -64,6 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Binary Tree Postorder Traversal.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Two Sum.h" />
   </ItemGroup>
