@@ -64,12 +64,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Binary Tree Postorder Traversal.h" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Two Sum.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Add Two Numbers.h" />
+    <ClInclude Include="Binary Tree Postorder Traversal.h" />
     <ClInclude Include="Binary Tree Preorder Traversal .h" />
     <ClInclude Include="Divide Two Integers.h" />
     <ClInclude Include="Evaluate Reverse Polish Notation.h" />
@@ -84,6 +84,8 @@
     <ClInclude Include="Reverse Words in a String.h" />
     <ClInclude Include="Search for a Range.h" />
     <ClInclude Include="Search Insert Position.h" />
+    <ClInclude Include="Single Number II.h" />
+    <ClInclude Include="Single Number.h" />
     <ClInclude Include="std.h" />
     <ClInclude Include="Valid Parentheses.h" />
   </ItemGroup>

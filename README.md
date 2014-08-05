@@ -53,6 +53,19 @@ X 010 Regular Expression Matching
 039  
 040  
   
+131-140  
+-------  
+131  
+132  
+133  
+134  
+135  
+136 Single Number  
+137 Single Number II  
+138  
+139  
+140  
+
 141-150  
 -------  
 141  

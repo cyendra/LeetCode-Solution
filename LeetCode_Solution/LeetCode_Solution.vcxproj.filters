@@ -29,6 +29,9 @@
     <Filter Include="源文件\141-150">
       <UniqueIdentifier>{643c0fe5-cfbd-485a-b421-5328c9c8a456}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\131-140">
+      <UniqueIdentifier>{ecf2789a-6cb5-4f6d-96c0-82866714dd08}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -36,9 +39,6 @@
     </ClCompile>
     <ClCompile Include="Two Sum.h">
       <Filter>源文件\001-010</Filter>
-    </ClCompile>
-    <ClCompile Include="Binary Tree Postorder Traversal.h">
-      <Filter>源文件\141-150</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -92,6 +92,15 @@
     </ClInclude>
     <ClInclude Include="Binary Tree Preorder Traversal .h">
       <Filter>源文件\141-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Binary Tree Postorder Traversal.h">
+      <Filter>源文件\141-150</Filter>
+    </ClInclude>
+    <ClInclude Include="Single Number II.h">
+      <Filter>源文件\131-140</Filter>
+    </ClInclude>
+    <ClInclude Include="Single Number.h">
+      <Filter>源文件\131-140</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
