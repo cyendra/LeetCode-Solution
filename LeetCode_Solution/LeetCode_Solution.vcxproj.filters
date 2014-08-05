@@ -32,6 +32,9 @@
     <Filter Include="源文件\131-140">
       <UniqueIdentifier>{ecf2789a-6cb5-4f6d-96c0-82866714dd08}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\041-050">
+      <UniqueIdentifier>{628ddc1a-0e6d-4fb0-8fa6-313a1cb10a8c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -101,6 +104,9 @@
     </ClInclude>
     <ClInclude Include="Single Number.h">
       <Filter>源文件\131-140</Filter>
+    </ClInclude>
+    <ClInclude Include="Pow(x, n).h">
+      <Filter>源文件\041-050</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

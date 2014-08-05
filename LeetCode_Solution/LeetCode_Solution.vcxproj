@@ -79,6 +79,7 @@
     <ClInclude Include="Merge k Sorted Lists.h" />
     <ClInclude Include="Next Permutation.h" />
     <ClInclude Include="Palindrome Number.h" />
+    <ClInclude Include="Pow(x, n).h" />
     <ClInclude Include="Remove Nth Node From End of List.h" />
     <ClInclude Include="Reverse Integer.h" />
     <ClInclude Include="Reverse Words in a String.h" />
