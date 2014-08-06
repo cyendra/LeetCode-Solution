@@ -120,6 +120,9 @@
     <ClInclude Include="Merge Intervals.h">
       <Filter>源文件\051-060</Filter>
     </ClInclude>
+    <ClInclude Include="Insert Interval.h">
+      <Filter>源文件\051-060</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
