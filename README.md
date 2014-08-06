@@ -65,7 +65,20 @@ X 010 Regular Expression Matching
 048  
 049 Pow(x, n)  
 050    
-
+  
+051-060  
+-------  
+051  
+052 Maximum Subarray  
+053  
+054  
+055  
+056  
+057  
+058  
+059  
+060  
+  
 131-140  
 -------  
 131  

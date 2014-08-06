@@ -35,6 +35,9 @@
     <Filter Include="源文件\041-050">
       <UniqueIdentifier>{628ddc1a-0e6d-4fb0-8fa6-313a1cb10a8c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\051-060">
+      <UniqueIdentifier>{19af9f25-2d45-4a9f-81aa-d6661d287959}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -107,6 +110,9 @@
     </ClInclude>
     <ClInclude Include="Pow(x, n).h">
       <Filter>源文件\041-050</Filter>
+    </ClInclude>
+    <ClInclude Include="Maximum Subarray.h">
+      <Filter>源文件\051-060</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
