@@ -77,6 +77,7 @@
     <ClInclude Include="Longest Substring Without Repeating Characters.h" />
     <ClInclude Include="Maximum Subarray.h" />
     <ClInclude Include="Median of Two Sorted Arrays.h" />
+    <ClInclude Include="Merge Intervals.h" />
     <ClInclude Include="Merge k Sorted Lists.h" />
     <ClInclude Include="Next Permutation.h" />
     <ClInclude Include="Palindrome Number.h" />

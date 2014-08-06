@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "Pow(x, n).h"
+#include "Merge Intervals.h"
 
 using namespace std;
 
@@ -11,6 +11,6 @@ int main()
 	double a;
 	int n;
 	cin >> a >> n;
-	cout << sol.pow(a, n) << endl;
+	cout << endl;
 	return 0;
 }

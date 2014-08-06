@@ -72,7 +72,7 @@ X 010 Regular Expression Matching
 052 Maximum Subarray  
 053 Spiral Matrix  
 054  
-055  
+055 Merge Intervals  
 056  
 057  
 058  
