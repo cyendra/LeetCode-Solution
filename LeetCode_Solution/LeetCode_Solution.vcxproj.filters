@@ -114,6 +114,9 @@
     <ClInclude Include="Maximum Subarray.h">
       <Filter>源文件\051-060</Filter>
     </ClInclude>
+    <ClInclude Include="Spiral Matrix.h">
+      <Filter>源文件\051-060</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
