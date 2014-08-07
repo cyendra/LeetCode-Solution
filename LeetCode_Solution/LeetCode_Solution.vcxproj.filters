@@ -38,6 +38,9 @@
     <Filter Include="源文件\051-060">
       <UniqueIdentifier>{19af9f25-2d45-4a9f-81aa-d6661d287959}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\061-070">
+      <UniqueIdentifier>{4b4bc4d0-65b1-40d9-9452-10ef43486b6f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -128,6 +131,9 @@
     </ClInclude>
     <ClInclude Include="Spiral Matrix II.h">
       <Filter>源文件\051-060</Filter>
+    </ClInclude>
+    <ClInclude Include="Merge Two Sorted Lists.h">
+      <Filter>源文件\061-070</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

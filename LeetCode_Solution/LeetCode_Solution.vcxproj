@@ -81,6 +81,7 @@
     <ClInclude Include="Median of Two Sorted Arrays.h" />
     <ClInclude Include="Merge Intervals.h" />
     <ClInclude Include="Merge k Sorted Lists.h" />
+    <ClInclude Include="Merge Two Sorted Lists.h" />
     <ClInclude Include="Next Permutation.h" />
     <ClInclude Include="Palindrome Number.h" />
     <ClInclude Include="Pow(x, n).h" />
