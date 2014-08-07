@@ -74,6 +74,7 @@
     <ClInclude Include="Divide Two Integers.h" />
     <ClInclude Include="Evaluate Reverse Polish Notation.h" />
     <ClInclude Include="Insert Interval.h" />
+    <ClInclude Include="Length of Last Word.h" />
     <ClInclude Include="Longest Palindromic Substring.h" />
     <ClInclude Include="Longest Substring Without Repeating Characters.h" />
     <ClInclude Include="Maximum Subarray.h" />
