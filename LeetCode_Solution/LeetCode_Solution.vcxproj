@@ -91,6 +91,7 @@
     <ClInclude Include="Search Insert Position.h" />
     <ClInclude Include="Single Number II.h" />
     <ClInclude Include="Single Number.h" />
+    <ClInclude Include="Spiral Matrix II.h" />
     <ClInclude Include="Spiral Matrix.h" />
     <ClInclude Include="std.h" />
     <ClInclude Include="Valid Parentheses.h" />
