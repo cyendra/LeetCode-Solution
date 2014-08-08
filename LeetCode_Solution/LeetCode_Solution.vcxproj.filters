@@ -41,6 +41,9 @@
     <Filter Include="源文件\061-070">
       <UniqueIdentifier>{4b4bc4d0-65b1-40d9-9452-10ef43486b6f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\071-080">
+      <UniqueIdentifier>{21e074fe-677b-4bc1-b462-52bb1000b262}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -137,6 +140,12 @@
     </ClInclude>
     <ClInclude Include="Minimum Path Sum.h">
       <Filter>源文件\061-070</Filter>
+    </ClInclude>
+    <ClInclude Include="Climbing Stairs.h">
+      <Filter>源文件\061-070</Filter>
+    </ClInclude>
+    <ClInclude Include="Edit Distance.h">
+      <Filter>源文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

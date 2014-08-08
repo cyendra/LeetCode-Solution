@@ -90,12 +90,12 @@ X 010 Regular Expression Matching
 067  
 068  
 069  
-070  
+070 Climbing Stairs  
 
 071-080  
 -------  
-071  
-072  
+071   
+072 Edit Distance   
 073  
 074  
 075  
