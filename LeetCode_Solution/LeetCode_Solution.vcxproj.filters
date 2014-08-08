@@ -147,6 +147,9 @@
     <ClInclude Include="Edit Distance.h">
       <Filter>源文件\071-080</Filter>
     </ClInclude>
+    <ClInclude Include="Search a 2D Matrix.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
