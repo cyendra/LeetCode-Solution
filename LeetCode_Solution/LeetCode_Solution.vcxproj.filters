@@ -145,7 +145,7 @@
       <Filter>源文件\061-070</Filter>
     </ClInclude>
     <ClInclude Include="Edit Distance.h">
-      <Filter>源文件</Filter>
+      <Filter>源文件\071-080</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
