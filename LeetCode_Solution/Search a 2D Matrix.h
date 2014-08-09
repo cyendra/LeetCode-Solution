@@ -6,11 +6,11 @@ public:
 		int n = matrix.size();
 		if (n == 0) return false;
 		int m = matrix[0].size();
-		int x = 1, y = m;
-		while (x <= n && y >= 1) {
-			if (matrix[x][y] == target) return true;;
-			if (matrix[x][y] < target) x++;
-			if (matrix[x][y] > target) y--;
+		int x = 0, y = m-1;
+		while (x <= n-1 && y >= 0) {
+			if (matrix[x][y] == target) return true;
+			else if (matrix[x][y] < target) x++;
+			else if (matrix[x][y] > target) y--;
 		}
 		return false;
 	}
