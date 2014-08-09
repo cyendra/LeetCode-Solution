@@ -85,6 +85,7 @@
     <ClInclude Include="Merge k Sorted Lists.h" />
     <ClInclude Include="Merge Two Sorted Lists.h" />
     <ClInclude Include="Minimum Path Sum.h" />
+    <ClInclude Include="Minimum Window Substring.h" />
     <ClInclude Include="Next Permutation.h" />
     <ClInclude Include="Palindrome Number.h" />
     <ClInclude Include="Pow(x, n).h" />
