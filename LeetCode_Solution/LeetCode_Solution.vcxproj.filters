@@ -151,7 +151,7 @@
       <Filter>源文件\071-080</Filter>
     </ClInclude>
     <ClInclude Include="Minimum Window Substring.h">
-      <Filter>源文件</Filter>
+      <Filter>源文件\071-080</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
