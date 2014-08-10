@@ -153,6 +153,9 @@
     <ClInclude Include="Minimum Window Substring.h">
       <Filter>源文件\071-080</Filter>
     </ClInclude>
+    <ClInclude Include="Remove Duplicates from Sorted List.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
