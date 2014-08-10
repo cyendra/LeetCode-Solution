@@ -108,7 +108,7 @@ X 010 Regular Expression Matching
 081-090  
 -------  
 081  
-082  
+082 Remove Duplicates from Sorted List  
 083  
 084  
 085  

@@ -44,6 +44,9 @@
     <Filter Include="源文件\071-080">
       <UniqueIdentifier>{21e074fe-677b-4bc1-b462-52bb1000b262}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\081-090">
+      <UniqueIdentifier>{fc4c1e69-f894-4c93-814f-bca824b09dc3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -154,7 +157,7 @@
       <Filter>源文件\071-080</Filter>
     </ClInclude>
     <ClInclude Include="Remove Duplicates from Sorted List.h">
-      <Filter>源文件</Filter>
+      <Filter>源文件\081-090</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
