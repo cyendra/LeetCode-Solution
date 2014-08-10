@@ -162,6 +162,9 @@
     <ClInclude Include="Remove Duplicates from Sorted Array II.h">
       <Filter>源文件\071-080</Filter>
     </ClInclude>
+    <ClInclude Include="Remove Duplicates from Sorted List II.h">
+      <Filter>源文件\081-090</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
