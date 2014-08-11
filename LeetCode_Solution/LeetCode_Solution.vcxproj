@@ -76,6 +76,7 @@
     <ClInclude Include="Edit Distance.h" />
     <ClInclude Include="Evaluate Reverse Polish Notation.h" />
     <ClInclude Include="Insert Interval.h" />
+    <ClInclude Include="Largest Rectangle in Histogram.h" />
     <ClInclude Include="Length of Last Word.h" />
     <ClInclude Include="Longest Palindromic Substring.h" />
     <ClInclude Include="Longest Substring Without Repeating Characters.h" />

@@ -165,6 +165,9 @@
     <ClInclude Include="Remove Duplicates from Sorted List II.h">
       <Filter>源文件\081-090</Filter>
     </ClInclude>
+    <ClInclude Include="Largest Rectangle in Histogram.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
