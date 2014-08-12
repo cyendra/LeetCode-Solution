@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Add Two Numbers.h" />
+    <ClInclude Include="Binary Tree Inorder Traversal.h" />
     <ClInclude Include="Binary Tree Postorder Traversal.h" />
     <ClInclude Include="Binary Tree Preorder Traversal .h" />
     <ClInclude Include="Climbing Stairs.h" />
@@ -104,6 +105,7 @@
     <ClInclude Include="Spiral Matrix II.h" />
     <ClInclude Include="Spiral Matrix.h" />
     <ClInclude Include="std.h" />
+    <ClInclude Include="Unique Binary Search Trees.h" />
     <ClInclude Include="Valid Parentheses.h" />
   </ItemGroup>
   <ItemGroup>

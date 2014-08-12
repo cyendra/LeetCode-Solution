@@ -47,6 +47,9 @@
     <Filter Include="源文件\081-090">
       <UniqueIdentifier>{fc4c1e69-f894-4c93-814f-bca824b09dc3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\091-100">
+      <UniqueIdentifier>{4f29d288-b2a7-4ece-b48e-3e79332354c2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -166,7 +169,13 @@
       <Filter>源文件\081-090</Filter>
     </ClInclude>
     <ClInclude Include="Largest Rectangle in Histogram.h">
+      <Filter>源文件\Wait</Filter>
+    </ClInclude>
+    <ClInclude Include="Unique Binary Search Trees.h">
       <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Binary Tree Inorder Traversal.h">
+      <Filter>源文件\091-100</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
