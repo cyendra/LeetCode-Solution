@@ -29,3 +29,12 @@ public:
 		return ans;
 	}
 };
+/**
+
+
+Input:	[4,2,0,3,2,4,3,4]
+Output:	9
+Expected:	10
+
+
+**/
