@@ -180,6 +180,9 @@
     <ClInclude Include="Validate Binary Search Tree.h">
       <Filter>源文件\091-100</Filter>
     </ClInclude>
+    <ClInclude Include="Same Tree.h">
+      <Filter>源文件\091-100</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />

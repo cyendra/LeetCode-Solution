@@ -97,6 +97,7 @@
     <ClInclude Include="Remove Nth Node From End of List.h" />
     <ClInclude Include="Reverse Integer.h" />
     <ClInclude Include="Reverse Words in a String.h" />
+    <ClInclude Include="Same Tree.h" />
     <ClInclude Include="Search a 2D Matrix.h" />
     <ClInclude Include="Search for a Range.h" />
     <ClInclude Include="Search Insert Position.h" />
