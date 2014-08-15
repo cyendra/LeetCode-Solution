@@ -177,6 +177,9 @@
     <ClInclude Include="Unique Binary Search Trees.h">
       <Filter>源文件\091-100</Filter>
     </ClInclude>
+    <ClInclude Include="Validate Binary Search Tree.h">
+      <Filter>源文件\091-100</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />

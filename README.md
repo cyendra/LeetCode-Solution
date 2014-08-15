@@ -127,7 +127,7 @@ X 010 Regular Expression Matching
 095 Unique Binary Search Trees  
 096  
 097  
-098  
+098 Validate Binary Search Tree  
 099  
 100  
 
