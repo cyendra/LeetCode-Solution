@@ -171,10 +171,10 @@
     <ClInclude Include="Largest Rectangle in Histogram.h">
       <Filter>源文件\Wait</Filter>
     </ClInclude>
-    <ClInclude Include="Unique Binary Search Trees.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
     <ClInclude Include="Binary Tree Inorder Traversal.h">
+      <Filter>源文件\091-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Unique Binary Search Trees.h">
       <Filter>源文件\091-100</Filter>
     </ClInclude>
   </ItemGroup>
