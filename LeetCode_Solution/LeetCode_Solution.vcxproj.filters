@@ -50,6 +50,9 @@
     <Filter Include="源文件\091-100">
       <UniqueIdentifier>{4f29d288-b2a7-4ece-b48e-3e79332354c2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\101-110">
+      <UniqueIdentifier>{84f61178-627f-4d09-9e21-1e7a5323b4f1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -182,6 +185,9 @@
     </ClInclude>
     <ClInclude Include="Same Tree.h">
       <Filter>源文件\091-100</Filter>
+    </ClInclude>
+    <ClInclude Include="Symmetric Tree.h">
+      <Filter>源文件\101-110</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

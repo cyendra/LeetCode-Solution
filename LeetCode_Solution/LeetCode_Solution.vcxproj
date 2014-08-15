@@ -106,6 +106,7 @@
     <ClInclude Include="Spiral Matrix II.h" />
     <ClInclude Include="Spiral Matrix.h" />
     <ClInclude Include="std.h" />
+    <ClInclude Include="Symmetric Tree.h" />
     <ClInclude Include="Unique Binary Search Trees.h" />
     <ClInclude Include="Valid Parentheses.h" />
     <ClInclude Include="Validate Binary Search Tree.h" />
