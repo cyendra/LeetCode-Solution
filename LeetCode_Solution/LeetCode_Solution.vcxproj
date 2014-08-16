@@ -83,6 +83,7 @@
     <ClInclude Include="Length of Last Word.h" />
     <ClInclude Include="Longest Palindromic Substring.h" />
     <ClInclude Include="Longest Substring Without Repeating Characters.h" />
+    <ClInclude Include="Maximum Depth of Binary Tree.h" />
     <ClInclude Include="Maximum Subarray.h" />
     <ClInclude Include="Median of Two Sorted Arrays.h" />
     <ClInclude Include="Merge Intervals.h" />

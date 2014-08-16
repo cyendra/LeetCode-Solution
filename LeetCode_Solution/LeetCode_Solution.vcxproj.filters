@@ -195,6 +195,9 @@
     <ClInclude Include="Binary Tree Zigzag Level Order Traversal.h">
       <Filter>源文件\101-110</Filter>
     </ClInclude>
+    <ClInclude Include="Maximum Depth of Binary Tree.h">
+      <Filter>源文件\101-110</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
