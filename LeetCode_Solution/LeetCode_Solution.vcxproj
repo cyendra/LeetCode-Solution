@@ -69,6 +69,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Add Two Numbers.h" />
+    <ClInclude Include="Balanced Binary Tree.h" />
     <ClInclude Include="Binary Tree Inorder Traversal.h" />
     <ClInclude Include="Binary Tree Level Order Traversal.h" />
     <ClInclude Include="Binary Tree Postorder Traversal.h" />
