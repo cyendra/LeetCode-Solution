@@ -208,7 +208,10 @@
       <Filter>源文件\111-120</Filter>
     </ClInclude>
     <ClInclude Include="Path Sum.h">
-      <Filter>源文件</Filter>
+      <Filter>源文件\111-120</Filter>
+    </ClInclude>
+    <ClInclude Include="Path Sum II.h">
+      <Filter>源文件\111-120</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

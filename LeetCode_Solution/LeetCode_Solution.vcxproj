@@ -95,6 +95,7 @@
     <ClInclude Include="Minimum Window Substring.h" />
     <ClInclude Include="Next Permutation.h" />
     <ClInclude Include="Palindrome Number.h" />
+    <ClInclude Include="Path Sum II.h" />
     <ClInclude Include="Path Sum.h" />
     <ClInclude Include="Pow(x, n).h" />
     <ClInclude Include="Remove Duplicates from Sorted Array II.h" />
