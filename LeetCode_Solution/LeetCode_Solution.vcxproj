@@ -73,6 +73,7 @@
     <ClInclude Include="Binary Tree Level Order Traversal.h" />
     <ClInclude Include="Binary Tree Postorder Traversal.h" />
     <ClInclude Include="Binary Tree Preorder Traversal .h" />
+    <ClInclude Include="Binary Tree Zigzag Level Order Traversal.h" />
     <ClInclude Include="Climbing Stairs.h" />
     <ClInclude Include="Divide Two Integers.h" />
     <ClInclude Include="Edit Distance.h" />
