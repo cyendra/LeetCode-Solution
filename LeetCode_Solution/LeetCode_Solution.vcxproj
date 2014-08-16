@@ -75,6 +75,7 @@
     <ClInclude Include="Binary Tree Preorder Traversal .h" />
     <ClInclude Include="Binary Tree Zigzag Level Order Traversal.h" />
     <ClInclude Include="Climbing Stairs.h" />
+    <ClInclude Include="Convert Sorted Array to Binary Search Tree.h" />
     <ClInclude Include="Divide Two Integers.h" />
     <ClInclude Include="Edit Distance.h" />
     <ClInclude Include="Evaluate Reverse Polish Notation.h" />
