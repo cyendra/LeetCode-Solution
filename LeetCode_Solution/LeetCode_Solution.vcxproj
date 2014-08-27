@@ -80,6 +80,7 @@
     <ClInclude Include="Divide Two Integers.h" />
     <ClInclude Include="Edit Distance.h" />
     <ClInclude Include="Evaluate Reverse Polish Notation.h" />
+    <ClInclude Include="Gas Station.h" />
     <ClInclude Include="Insert Interval.h" />
     <ClInclude Include="Largest Rectangle in Histogram.h" />
     <ClInclude Include="Length of Last Word.h" />

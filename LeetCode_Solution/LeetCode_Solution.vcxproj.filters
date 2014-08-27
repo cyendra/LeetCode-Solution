@@ -219,6 +219,9 @@
     <ClInclude Include="Balanced Binary Tree.h">
       <Filter>源文件\Wait</Filter>
     </ClInclude>
+    <ClInclude Include="Gas Station.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
