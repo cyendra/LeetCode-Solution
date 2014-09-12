@@ -243,6 +243,9 @@
     <ClInclude Include="Best Time to Buy and Sell Stock II.h">
       <Filter>源文件\Wait</Filter>
     </ClInclude>
+    <ClInclude Include="Pascal%27s Triangle.h">
+      <Filter>源文件\111-120</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
