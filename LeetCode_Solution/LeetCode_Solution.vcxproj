@@ -72,6 +72,7 @@
     <ClInclude Include="Balanced Binary Tree.h" />
     <ClInclude Include="Binary Tree Inorder Traversal.h" />
     <ClInclude Include="Binary Tree Level Order Traversal.h" />
+    <ClInclude Include="Binary Tree Maximum Path Sum.h" />
     <ClInclude Include="Binary Tree Postorder Traversal.h" />
     <ClInclude Include="Binary Tree Preorder Traversal .h" />
     <ClInclude Include="Binary Tree Zigzag Level Order Traversal.h" />

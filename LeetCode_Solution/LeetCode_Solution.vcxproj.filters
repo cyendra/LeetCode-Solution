@@ -231,6 +231,9 @@
     <ClInclude Include="Valid Palindrome.h">
       <Filter>源文件\121-130</Filter>
     </ClInclude>
+    <ClInclude Include="Binary Tree Maximum Path Sum.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
