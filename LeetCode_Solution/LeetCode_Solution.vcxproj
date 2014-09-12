@@ -70,6 +70,7 @@
   <ItemGroup>
     <ClInclude Include="Add Two Numbers.h" />
     <ClInclude Include="Balanced Binary Tree.h" />
+    <ClInclude Include="Best Time to Buy and Sell Stock II.h" />
     <ClInclude Include="Best Time to Buy and Sell Stock.h" />
     <ClInclude Include="Binary Tree Inorder Traversal.h" />
     <ClInclude Include="Binary Tree Level Order Traversal.h" />
@@ -119,6 +120,7 @@
     <ClInclude Include="std.h" />
     <ClInclude Include="Sum Root to Leaf Numbers.h" />
     <ClInclude Include="Symmetric Tree.h" />
+    <ClInclude Include="Triangle.h" />
     <ClInclude Include="Unique Binary Search Trees.h" />
     <ClInclude Include="Valid Palindrome.h" />
     <ClInclude Include="Valid Parentheses.h" />
