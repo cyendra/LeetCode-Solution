@@ -228,6 +228,9 @@
     <ClInclude Include="Word Ladder.h">
       <Filter>源文件\Wait</Filter>
     </ClInclude>
+    <ClInclude Include="Valid Palindrome.h">
+      <Filter>源文件\121-130</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />

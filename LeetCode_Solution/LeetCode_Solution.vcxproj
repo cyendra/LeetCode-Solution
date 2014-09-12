@@ -118,6 +118,7 @@
     <ClInclude Include="Sum Root to Leaf Numbers.h" />
     <ClInclude Include="Symmetric Tree.h" />
     <ClInclude Include="Unique Binary Search Trees.h" />
+    <ClInclude Include="Valid Palindrome.h" />
     <ClInclude Include="Valid Parentheses.h" />
     <ClInclude Include="Validate Binary Search Tree.h" />
     <ClInclude Include="Word Ladder.h" />
