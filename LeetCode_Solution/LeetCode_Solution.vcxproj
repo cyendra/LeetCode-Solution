@@ -100,6 +100,7 @@
     <ClInclude Include="Minimum Window Substring.h" />
     <ClInclude Include="Next Permutation.h" />
     <ClInclude Include="Palindrome Number.h" />
+    <ClInclude Include="Pascal%27s Triangle II.h" />
     <ClInclude Include="Pascal%27s Triangle.h" />
     <ClInclude Include="Path Sum II.h" />
     <ClInclude Include="Path Sum.h" />
