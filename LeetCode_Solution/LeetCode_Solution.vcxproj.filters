@@ -222,6 +222,12 @@
     <ClInclude Include="Gas Station.h">
       <Filter>源文件\131-140</Filter>
     </ClInclude>
+    <ClInclude Include="Sum Root to Leaf Numbers.h">
+      <Filter>源文件\121-130</Filter>
+    </ClInclude>
+    <ClInclude Include="Word Ladder.h">
+      <Filter>源文件\Wait</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
