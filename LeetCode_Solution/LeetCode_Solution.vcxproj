@@ -70,6 +70,7 @@
   <ItemGroup>
     <ClInclude Include="Add Two Numbers.h" />
     <ClInclude Include="Balanced Binary Tree.h" />
+    <ClInclude Include="Best Time to Buy and Sell Stock.h" />
     <ClInclude Include="Binary Tree Inorder Traversal.h" />
     <ClInclude Include="Binary Tree Level Order Traversal.h" />
     <ClInclude Include="Binary Tree Maximum Path Sum.h" />
