@@ -255,6 +255,9 @@
     <ClInclude Include="Populating Next Right Pointers in Each Node II.h">
       <Filter>源文件\111-120</Filter>
     </ClInclude>
+    <ClInclude Include="Distinct Subsequences.h">
+      <Filter>源文件\Wait</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
