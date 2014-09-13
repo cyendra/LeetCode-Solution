@@ -104,6 +104,7 @@
     <ClInclude Include="Pascal%27s Triangle.h" />
     <ClInclude Include="Path Sum II.h" />
     <ClInclude Include="Path Sum.h" />
+    <ClInclude Include="Populating Next Right Pointers in Each Node II.h" />
     <ClInclude Include="Populating Next Right Pointers in Each Node.h" />
     <ClInclude Include="Pow(x, n).h" />
     <ClInclude Include="Remove Duplicates from Sorted Array II.h" />
