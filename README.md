@@ -6,7 +6,7 @@ LeetCode-Solution
 001 Two Sum  
 X 002 Median of Two Sorted Arrays
 003 Longest Substring Without Repeating Characters  
-X 004 Add Two Numbers  
+004 Add Two Numbers  
 005 Longest Palindromic Substring  
 X 006 ZigZag Conversion 
 007 Reverse Integer  

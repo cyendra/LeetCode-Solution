@@ -78,9 +78,6 @@
     <ClInclude Include="Longest Palindromic Substring.h">
       <Filter>源文件\001-010</Filter>
     </ClInclude>
-    <ClInclude Include="Add Two Numbers.h">
-      <Filter>源文件\Wait</Filter>
-    </ClInclude>
     <ClInclude Include="Median of Two Sorted Arrays.h">
       <Filter>源文件\Wait</Filter>
     </ClInclude>
@@ -257,6 +254,9 @@
     </ClInclude>
     <ClInclude Include="Distinct Subsequences.h">
       <Filter>源文件\Wait</Filter>
+    </ClInclude>
+    <ClInclude Include="Add Two Numbers.h">
+      <Filter>源文件\001-010</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

@@ -14,7 +14,7 @@ public:
 		ListNode *p = new ListNode(0);
 		ListNode *h = p;
 		while (l1 != NULL && l2 != NULL) {
-			p->val = l1->val + l2->val;
+			p->val += l1->val + l2->val;
 			l1 = l1->next;
 			l2 = l2->next;
 			if (l1 != NULL || l2 != NULL) p->next = new ListNode(0);
