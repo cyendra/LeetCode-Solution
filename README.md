@@ -85,9 +85,9 @@ X 010 Regular Expression Matching
 062  
 063 Minimum Path Sum  
 064 Merge Two Sorted Lists  
-065  
+065 Add Binary  
 066  
-067  
+067 Plus One  
 068  
 069  
 070 Climbing Stairs  
@@ -114,7 +114,7 @@ X 010 Regular Expression Matching
 085  
 086  
 087  
-088  
+088 Merge Sorted Array  
 089  
 090  
   
@@ -199,3 +199,7 @@ X 010 Regular Expression Matching
 151-160  
 -------  
 151 Reverse Words in a String  
+152 
+153 
+154 
+X 155 Min Stack  

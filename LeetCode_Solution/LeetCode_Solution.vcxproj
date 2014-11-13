@@ -68,6 +68,7 @@
     <ClCompile Include="Two Sum.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Add Binary.h" />
     <ClInclude Include="Add Two Numbers.h" />
     <ClInclude Include="Balanced Binary Tree.h" />
     <ClInclude Include="Best Time to Buy and Sell Stock II.h" />
@@ -95,7 +96,9 @@
     <ClInclude Include="Median of Two Sorted Arrays.h" />
     <ClInclude Include="Merge Intervals.h" />
     <ClInclude Include="Merge k Sorted Lists.h" />
+    <ClInclude Include="Merge Sorted Array.h" />
     <ClInclude Include="Merge Two Sorted Lists.h" />
+    <ClInclude Include="Min Stack.h" />
     <ClInclude Include="Minimum Depth of Binary Tree.h" />
     <ClInclude Include="Minimum Path Sum.h" />
     <ClInclude Include="Minimum Window Substring.h" />
@@ -105,6 +108,7 @@
     <ClInclude Include="Pascal%27s Triangle.h" />
     <ClInclude Include="Path Sum II.h" />
     <ClInclude Include="Path Sum.h" />
+    <ClInclude Include="Plus One.h" />
     <ClInclude Include="Populating Next Right Pointers in Each Node II.h" />
     <ClInclude Include="Populating Next Right Pointers in Each Node.h" />
     <ClInclude Include="Pow(x, n).h" />
@@ -127,6 +131,7 @@
     <ClInclude Include="Symmetric Tree.h" />
     <ClInclude Include="Triangle.h" />
     <ClInclude Include="Unique Binary Search Trees.h" />
+    <ClInclude Include="Valid Number.h" />
     <ClInclude Include="Valid Palindrome.h" />
     <ClInclude Include="Valid Parentheses.h" />
     <ClInclude Include="Validate Binary Search Tree.h" />

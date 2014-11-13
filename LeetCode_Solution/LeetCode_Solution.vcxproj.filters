@@ -258,6 +258,21 @@
     <ClInclude Include="Add Two Numbers.h">
       <Filter>源文件\001-010</Filter>
     </ClInclude>
+    <ClInclude Include="Min Stack.h">
+      <Filter>源文件\Wait</Filter>
+    </ClInclude>
+    <ClInclude Include="Merge Sorted Array.h">
+      <Filter>源文件\081-090</Filter>
+    </ClInclude>
+    <ClInclude Include="Plus One.h">
+      <Filter>源文件\061-070</Filter>
+    </ClInclude>
+    <ClInclude Include="Valid Number.h">
+      <Filter>源文件\Wait</Filter>
+    </ClInclude>
+    <ClInclude Include="Add Binary.h">
+      <Filter>源文件\061-070</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
