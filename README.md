@@ -10,7 +10,7 @@ X 002 Median of Two Sorted Arrays
 005 Longest Palindromic Substring  
 X 006 ZigZag Conversion 
 007 Reverse Integer  
-X 008 String to Integer (atoi)  
+008 String to Integer (atoi)  
 009 Palindrome Number  
 X 010 Regular Expression Matching  
   
@@ -33,7 +33,7 @@ X 010 Regular Expression Matching
 022 Merge k Sorted Lists  
 023  
 024  
-025  
+025 Remove Duplicates from Sorted Array  
 026  
 027 Implement strStr()  
 028 Divide Two Integers  

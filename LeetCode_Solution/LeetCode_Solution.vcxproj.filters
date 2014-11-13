@@ -279,6 +279,15 @@
     <ClInclude Include="Implement strStr.h">
       <Filter>源文件\021-030</Filter>
     </ClInclude>
+    <ClInclude Include="Remove Duplicates from Sorted Array.h">
+      <Filter>源文件\021-030</Filter>
+    </ClInclude>
+    <ClInclude Include="String to Integer.h">
+      <Filter>源文件\001-010</Filter>
+    </ClInclude>
+    <ClInclude Include="ZigZag Conversion.h">
+      <Filter>源文件\Wait</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />

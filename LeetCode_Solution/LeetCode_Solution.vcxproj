@@ -115,6 +115,7 @@
     <ClInclude Include="Populating Next Right Pointers in Each Node.h" />
     <ClInclude Include="Pow(x, n).h" />
     <ClInclude Include="Remove Duplicates from Sorted Array II.h" />
+    <ClInclude Include="Remove Duplicates from Sorted Array.h" />
     <ClInclude Include="Remove Duplicates from Sorted List II.h" />
     <ClInclude Include="Remove Duplicates from Sorted List.h" />
     <ClInclude Include="Remove Nth Node From End of List.h" />
@@ -129,6 +130,7 @@
     <ClInclude Include="Spiral Matrix II.h" />
     <ClInclude Include="Spiral Matrix.h" />
     <ClInclude Include="std.h" />
+    <ClInclude Include="String to Integer.h" />
     <ClInclude Include="Sum Root to Leaf Numbers.h" />
     <ClInclude Include="Symmetric Tree.h" />
     <ClInclude Include="Triangle.h" />
@@ -138,6 +140,7 @@
     <ClInclude Include="Valid Parentheses.h" />
     <ClInclude Include="Validate Binary Search Tree.h" />
     <ClInclude Include="Word Ladder.h" />
+    <ClInclude Include="ZigZag Conversion.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
