@@ -1,25 +1,19 @@
 #include "std.h"
-#include "Word Ladder.h"
-#include <unordered_set>
+#include "Implement strStr.h"
+
 using namespace std;
 
 
 int main()
 {
-	unordered_set<string> st;
-	Solution sol;
-	string s, e;
-	string tmp;
 	int n;
-	
-	cin >> s >> e;
-	cin >> n;
-	for (int i = 0; i < n; i++) {
-		cin >> tmp;
-		st.insert(tmp);
-	}
-	
-	cout << sol.ladderLength(s, e, st);
-
+	Solution s;
+	//string a, b;
+	char a[] = "aaa";
+	char b[] = "a";
+	//while (cin >> a >> b) {
+		cout << s.strStr(a, b) << endl;
+	//}
+	system("pause");
 	return 0;
 }

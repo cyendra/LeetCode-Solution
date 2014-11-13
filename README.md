@@ -35,7 +35,7 @@ X 010 Regular Expression Matching
 024  
 025  
 026  
-027  
+027 Implement strStr()  
 028 Divide Two Integers  
 029  
 030 Next Permutation  
@@ -48,7 +48,7 @@ X 010 Regular Expression Matching
 034 Search Insert Position  
 035  
 036  
-037  
+037 Count and Say  
 038  
 039  
 040  
