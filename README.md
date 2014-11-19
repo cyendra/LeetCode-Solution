@@ -8,7 +8,7 @@ X 002 Median of Two Sorted Arrays
 003 Longest Substring Without Repeating Characters  
 004 Add Two Numbers  
 005 Longest Palindromic Substring  
-X 006 ZigZag Conversion 
+006 ZigZag Conversion  (python)  
 007 Reverse Integer  
 008 String to Integer (atoi)  
 009 Palindrome Number  
@@ -20,7 +20,7 @@ X 010 Regular Expression Matching
 012  
 013  
 014 Longest Common Prefix (python)  
-015  
+015 3Sum (python)  
 016  
 017  
 018  

@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>64327ea3-051f-4dd2-96b4-0bef41447355</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>011-020\Longest Common Prefix.py</StartupFile>
+    <StartupFile>011-020\3Sum.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -28,6 +28,15 @@
     <Compile Include="011-020\Longest Common Prefix.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="001-010\ZigZag Conversion.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="011-020\3Sum.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Wait\Container With Most Water.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="021-030\" />
@@ -46,6 +55,7 @@
     <Folder Include="131-140\" />
     <Folder Include="141-150\" />
     <Folder Include="151-160\" />
+    <Folder Include="Wait\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
