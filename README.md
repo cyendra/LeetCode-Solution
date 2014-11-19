@@ -19,7 +19,7 @@ X 010 Regular Expression Matching
 011  
 012  
 013  
-014  
+014 Longest Common Prefix (python)  
 015  
 016  
 017  
@@ -34,7 +34,7 @@ X 010 Regular Expression Matching
 023  
 024  
 025 Remove Duplicates from Sorted Array  
-026  
+026 Remove Element (python) 
 027 Implement strStr()  
 028 Divide Two Integers  
 029  
