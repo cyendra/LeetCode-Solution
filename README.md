@@ -4,7 +4,7 @@ LeetCode-Solution
 001-010  
 -------  
 001 Two Sum  
-X 002 Median of Two Sorted Arrays
+002* Median of Two Sorted Arrays
 003 Longest Substring Without Repeating Characters  
 004 Add Two Numbers  
 005 Longest Palindromic Substring  

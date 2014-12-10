@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>64327ea3-051f-4dd2-96b4-0bef41447355</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>011-020\3Sum.py</StartupFile>
+    <StartupFile>001-010\Median of Two Sorted Arrays.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -32,6 +32,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="011-020\3Sum.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="001-010\Median of Two Sorted Arrays.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Wait\Container With Most Water.py">
