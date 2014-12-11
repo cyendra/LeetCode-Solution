@@ -21,17 +21,17 @@ LeetCode-Solution
 013* Roman to Integer  
 014 Longest Common Prefix (python)  
 015 3Sum (python)  
-016  
-017  
-018  
+016* 3Sum Closest  
+017* 4Sum  
+018* Letter Combinations of a Phone Number  
 019 Remove Nth Node From End of List  
 020 Valid Parentheses  
   
 021-030  
 -------  
-021  
+021* Generate Parentheses  
 022 Merge k Sorted Lists  
-023  
+023* Swap Nodes in Pairs  
 024  
 025 Remove Duplicates from Sorted Array  
 026 Remove Element (python) 

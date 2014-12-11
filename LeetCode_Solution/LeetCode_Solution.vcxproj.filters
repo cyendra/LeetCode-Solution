@@ -291,6 +291,12 @@
     <ClInclude Include="Regular Expression Matching.h">
       <Filter>源文件\001-010</Filter>
     </ClInclude>
+    <ClInclude Include="3Sum Closest.h">
+      <Filter>源文件\011-020</Filter>
+    </ClInclude>
+    <ClInclude Include="4Sum.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />

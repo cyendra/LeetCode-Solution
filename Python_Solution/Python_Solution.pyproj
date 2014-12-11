@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>64327ea3-051f-4dd2-96b4-0bef41447355</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>011-020\Roman to Integer.py</StartupFile>
+    <StartupFile>021-030\Swap Nodes in Pairs.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -41,6 +41,18 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="011-020\Roman to Integer.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="011-020\Letter Combinations of a Phone Number.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="021-030\Generate Parentheses.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="021-030\Swap Nodes in Pairs.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Wait\3Sum Closest.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Wait\Regular Expression Matching.py">

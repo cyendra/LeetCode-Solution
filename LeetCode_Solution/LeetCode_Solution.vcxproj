@@ -68,6 +68,8 @@
     <ClCompile Include="Two Sum.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="3Sum Closest.h" />
+    <ClInclude Include="4Sum.h" />
     <ClInclude Include="Add Binary.h" />
     <ClInclude Include="Add Two Numbers.h" />
     <ClInclude Include="Balanced Binary Tree.h" />
