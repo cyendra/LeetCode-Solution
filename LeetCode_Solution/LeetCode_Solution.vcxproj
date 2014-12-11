@@ -114,6 +114,7 @@
     <ClInclude Include="Populating Next Right Pointers in Each Node II.h" />
     <ClInclude Include="Populating Next Right Pointers in Each Node.h" />
     <ClInclude Include="Pow(x, n).h" />
+    <ClInclude Include="Regular Expression Matching.h" />
     <ClInclude Include="Remove Duplicates from Sorted Array II.h" />
     <ClInclude Include="Remove Duplicates from Sorted Array.h" />
     <ClInclude Include="Remove Duplicates from Sorted List II.h" />

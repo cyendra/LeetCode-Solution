@@ -288,6 +288,9 @@
     <ClInclude Include="ZigZag Conversion.h">
       <Filter>源文件\Wait</Filter>
     </ClInclude>
+    <ClInclude Include="Regular Expression Matching.h">
+      <Filter>源文件\001-010</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />
