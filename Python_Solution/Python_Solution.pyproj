@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>64327ea3-051f-4dd2-96b4-0bef41447355</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>021-030\Swap Nodes in Pairs.py</StartupFile>
+    <StartupFile>Substring with Concatenation of All Words.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -50,6 +50,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="021-030\Swap Nodes in Pairs.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="021-030\Reverse Nodes in k-Group.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Substring with Concatenation of All Words.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Wait\3Sum Closest.py">

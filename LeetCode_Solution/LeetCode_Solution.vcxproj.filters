@@ -295,7 +295,7 @@
       <Filter>源文件\011-020</Filter>
     </ClInclude>
     <ClInclude Include="4Sum.h">
-      <Filter>源文件</Filter>
+      <Filter>源文件\011-020</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

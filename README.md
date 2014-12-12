@@ -32,12 +32,12 @@ LeetCode-Solution
 021* Generate Parentheses  
 022 Merge k Sorted Lists  
 023* Swap Nodes in Pairs  
-024  
+024* Reverse Nodes in k-Group  
 025 Remove Duplicates from Sorted Array  
 026 Remove Element (python) 
 027 Implement strStr()  
 028 Divide Two Integers  
-029  
+029* Substring with Concatenation of All Words  
 030 Next Permutation  
   
 031-040  
